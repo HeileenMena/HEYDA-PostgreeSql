@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AgregarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJCircularPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
